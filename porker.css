@@ -1,0 +1,10 @@
+body{
+    background-image: url(porker_table.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.face{
+    color:antiquewhite;
+    font-size: 70px;
+    text-align: center;
+}
